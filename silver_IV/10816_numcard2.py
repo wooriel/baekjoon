@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+
+## does not work yet - 시간초과 떠서 수정하다가 맒
+
 from collections import defaultdict
 
 if __name__ == "__main__":
